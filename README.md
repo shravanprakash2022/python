@@ -1,1 +1,1 @@
-# python
+// Go Lang
