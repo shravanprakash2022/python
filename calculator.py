@@ -11,6 +11,4 @@ elif operator == "*":
 elif operator == "/":
     print(num1 / num2)
 else:
-    print("Invalid operators!")
-
-print("Hi this is test")
+    print("Invalid operator!")
